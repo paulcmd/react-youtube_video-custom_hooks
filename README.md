@@ -1,4 +1,4 @@
-# Budget Tracker
+# YouTube Video
   ![GitHub repo size](https://img.shields.io/github/repo-size/paulcmd/react-youtube_video-custom_hooks?style=for-the-badge) ![GitHub code size](https://img.shields.io/github/languages/code-size/paulcmd/react-youtube_video-custom_hooks?color=gold&style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/paulcmd/react-youtube_video-custom_hooks?color=green&style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/paulcmd/react-youtube_video-custom_hooks?color=red&style=for-the-badge)
 
 ---
@@ -73,7 +73,7 @@ SOFTWARE.
 
 
 ## Future Improvements:
-* Store video.
+* Store loaded videos in LocalStorage.
 * Use a database such as MongoDB.
 
 ---
