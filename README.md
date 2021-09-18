@@ -1,10 +1,10 @@
-# Video Search
+# YouTube Video Search
   ![GitHub repo size](https://img.shields.io/github/repo-size/paulcmd/react-youtube_video-custom_hooks?style=for-the-badge) ![GitHub code size](https://img.shields.io/github/languages/code-size/paulcmd/react-youtube_video-custom_hooks?color=gold&style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/paulcmd/react-youtube_video-custom_hooks?color=green&style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/paulcmd/react-youtube_video-custom_hooks?color=red&style=for-the-badge)
 
 ---
 
 ## Description:
-This is a React application that allows a user to search for videos from the Youtube API. The user can input the name of video to search, and then view the list of results on the right side. The user does not need to press Enter to search. The search function runs 30 sec after the last key press. The selected video plays in the player. See the [usage](#usage) or [demonstration](#demonstration) sections for a more detailed explanation on how to use this application.
+This is a React application that allows a user to search for videos through the Youtube API. The user can input a search query, and a list of results will be presented to the right side of the video player. The selected video will then be played in the video player . See the [usage](#usage) or [demonstration](#demonstration) sections for a more detailed explanation on how to use this application.
 
 This application was created using _ReactJS_, as well as _React Hooks_ (_useState_ and _useEffect_), and LocalStorage.
 
@@ -22,13 +22,6 @@ This application was created using _ReactJS_, as well as _React Hooks_ (_useStat
 
 ## Installation:
 None is required.
-
----
-
-## Usage:
-To use the application, go to __[this link](https://react-youtube-video-custom-hooks.netlify.app/)__.
-
-![img-1](readme-imgs/default.png)
 
 
 ---
