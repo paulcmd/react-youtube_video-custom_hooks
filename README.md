@@ -4,7 +4,7 @@
 ---
 
 ## Description:
-This is a React application that allows a user to search for videos through the Youtube API. The user can input a search query, and a list of results will be presented to the right side of the video player. The selected video will then be played in the video player . See the [usage](#usage) or [demonstration](#demonstration) sections for a more detailed explanation on how to use this application.
+This is a React application that allows a user to search for videos through the Youtube API. The user can input a search query, and a list of results will be presented to the right side of the video player. The selected video will then be played in the player . See the [usage](#usage) or [demonstration](#demonstration) sections for a more detailed explanation on how to use this application.
 
 This application was created using _ReactJS_, as well as _React Hooks_ (_useState_ and _useEffect_), and LocalStorage.
 
